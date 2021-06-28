@@ -11,6 +11,13 @@ GIT
       ruby2_keywords
 
 GIT
+  remote: https://github.com/owen2345/cama_subscriber.git
+  revision: 5fca465b079c0c929381f61c590223ecd45c16e0
+  specs:
+    cama_subscriber (0.0.5)
+      rails
+
+GIT
   remote: https://github.com/owen2345/camaleon-cms.git
   revision: 17635a75a8e5b003764815ee1048998a5d1422fa
   specs:
@@ -298,6 +305,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap (>= 1.4.4)
   byebug
+  cama_subscriber!
   camaleon_cms!
   capybara (>= 3.26)
   draper!
