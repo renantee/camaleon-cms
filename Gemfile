@@ -17,6 +17,7 @@ gem 'webpacker', '~> 5.0'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.7'
+gem "camaleon_cms",  '>= 2.4.6.1' # (Current stable versions are 2.5.0, 2.4.4.5, 2.4.3.10, 2.3.6, 2.2.1)
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
